@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((TRUENKOWLEDGE+128))
+echo $(($TRUENKOWLEDGE + 128))
